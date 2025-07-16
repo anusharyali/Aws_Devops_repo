@@ -1,1 +1,1 @@
-sample conflict file from feature branch
+# Add: "This is MAIN branch edit"
